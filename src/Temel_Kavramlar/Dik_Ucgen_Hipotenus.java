@@ -17,10 +17,10 @@ public class Dik_Ucgen_Hipotenus {
         int u=cevre/2;
         int alan_karesi=u*(u-a)*(u-b)*(u-c);
         double alan=Math.sqrt(alan_karesi);
-        System.out.println(alan);
+        System.out.println("Alan: " +alan);
         //bir diger yontem
         alan=a*b/2;
-        System.out.println(alan);
+        System.out.println("Alan: "+alan);
 
     }
 }
