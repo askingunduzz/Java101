@@ -1,2 +1,2 @@
 # Java101
-Patika' nın java101 dersindeki ödevlerim ve projelerim.
+Patika' nın Java Staj Programındaki ödevlerim ve projelerim.
