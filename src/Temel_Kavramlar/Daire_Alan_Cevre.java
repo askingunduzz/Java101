@@ -19,5 +19,7 @@ public class Daire_Alan_Cevre {
         System.out.println("Dairenin alani: "+ alan);
         System.out.println("Dairenin cevresi: "+cevre);
         System.out.println("Daire diliminin aileni: "+dilim_alan);
+
+
     }
 }
