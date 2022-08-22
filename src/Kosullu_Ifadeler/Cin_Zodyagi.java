@@ -7,58 +7,58 @@ public class Cin_Zodyagi {
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Dogum yilinizi giriniz: ");
-        int yil=scan.nextInt();
-        int kalan=yil%12;
+        int yil = scan.nextInt();
+        int kalan = yil % 12;
         String hayvan;
 
-        switch(kalan){
+        switch (kalan) {
             case 0:
-                hayvan="Maymun";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Maymun";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 1:
-                hayvan="Horoz";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Horoz";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 2:
-                hayvan="Kopek";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Kopek";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 3:
-                hayvan="Domuz";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Domuz";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 4:
-                hayvan="Fare";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Fare";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 5:
-                hayvan="Okuz";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Okuz";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 6:
-                hayvan= "Kaplan";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Kaplan";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 7:
-                hayvan="Tavsan";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Tavsan";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 8:
-                hayvan="Ejderha";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Ejderha";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 9:
-                hayvan="Yilan";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Yilan";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 10:
-                hayvan="At";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "At";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
             case 11:
-                hayvan="Koyun";
-                System.out.println("Cin Zodyagi Burcunuz: "+ hayvan);
+                hayvan = "Koyun";
+                System.out.println("Cin Zodyagi Burcunuz: " + hayvan);
                 break;
         }
 
