@@ -9,7 +9,7 @@ public class Armstrong {
 //        int a = scan.nextInt();
 
 //3basamakli sayilar
-        for (int i = 100; i < 1000; i++) {
+        for (int i= 100; i <1000; i++) {
             int us = 0;
             int a = i;
             int b = i;
