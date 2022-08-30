@@ -12,7 +12,7 @@ public class Asal_Sayilar {
                 }
             }
             if (sayac == 0) {
-                System.out.print(i + " s");
+                System.out.print(i + " ");
             } else {
                 sayac = 0;
             }
